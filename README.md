@@ -1,2 +1,2 @@
 # test-repo
-training practice
+This is for my training practice.
